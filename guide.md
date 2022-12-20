@@ -24,5 +24,3 @@
 12. **git merge** - "слияние" веток;
 
 ![Вся правда про GIT](https://www.meme-arsenal.com/memes/e980b8cf8b3273929c68451d698d5d99.jpg)
-
-Изменения в ветке lesson
